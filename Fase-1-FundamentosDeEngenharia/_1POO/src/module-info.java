@@ -4,5 +4,5 @@
 /**
  * 
  */
-module poo {
+module _1POO {
 }
